@@ -1,2 +1,3 @@
 # EasyNetQ
-Sample code for EasyNetQ and RabbitMQ course.
+Sample code for EasyNetQ and RabbitMQ.
+Simple demos
